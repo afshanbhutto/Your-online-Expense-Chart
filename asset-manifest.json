@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Your-online-Expense-Chart/static/css/main.5936f376.css",
+    "main.js": "/Your-online-Expense-Chart/static/js/main.7a49c670.js",
+    "static/js/787.9ce9f379.chunk.js": "/Your-online-Expense-Chart/static/js/787.9ce9f379.chunk.js",
+    "index.html": "/Your-online-Expense-Chart/index.html",
+    "main.5936f376.css.map": "/Your-online-Expense-Chart/static/css/main.5936f376.css.map",
+    "main.7a49c670.js.map": "/Your-online-Expense-Chart/static/js/main.7a49c670.js.map",
+    "787.9ce9f379.chunk.js.map": "/Your-online-Expense-Chart/static/js/787.9ce9f379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5936f376.css",
+    "static/js/main.7a49c670.js"
+  ]
+}
